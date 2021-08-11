@@ -1,0 +1,3 @@
+demo,david,password123
+demo,anne,london
+real,admin,admin,49926.97,0.0
