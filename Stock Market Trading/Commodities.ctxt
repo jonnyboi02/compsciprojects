@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Commodities
+comment1.params=name\ abbreviation\ sellPrice\ reservesLeft
+comment1.target=Commodities(java.lang.String,\ java.lang.String,\ double,\ long)
+comment10.params=
+comment10.target=void\ changeSellPrice()
+comment2.params=
+comment2.target=double\ getReservesLeftChange()
+comment3.params=change
+comment3.target=void\ setReservesLeftChange(double)
+comment4.params=
+comment4.target=long\ getReserves()
+comment5.params=reserves
+comment5.target=void\ setReserves(long)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ reduceReserves()
+comment8.params=
+comment8.target=void\ updateData()
+comment9.params=
+comment9.target=java.lang.String\ getBasicInfo()
+numComments=11

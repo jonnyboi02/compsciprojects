@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ViewPortfolio
+comment1.params=transactions\ user
+comment1.target=ViewPortfolio(Transactions,\ User)
+comment2.params=
+comment2.target=void\ autoupdatePortfolio()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=transaction
+comment4.target=void\ updatePortfolio(Transactions)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

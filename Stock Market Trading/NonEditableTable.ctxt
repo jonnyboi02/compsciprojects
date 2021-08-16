@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NonEditableTable
+comment1.params=row\ column
+comment1.target=boolean\ isCellEditable(int,\ int)
+numComments=2

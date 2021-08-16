@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment1.params=user
+comment1.target=MainMenu(User)
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment11.params=price\ shares\ index\ sharesToPurchase\ user\ transactions
+comment11.target=void\ addTransaction(double,\ java.util.ArrayList,\ int,\ double,\ User,\ Transactions)
+comment12.params=
+comment12.target=java.lang.String\ getDate()
+comment2.params=shares
+comment2.target=void\ updateNotifications(java.util.ArrayList)
+comment3.params=shares
+comment3.target=void\ autoUpdatePrices(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=shares
+comment5.target=void\ updateMarket(java.util.ArrayList)
+comment6.params=share
+comment6.target=void\ changeMarketTable(Stock)
+comment7.params=user
+comment7.target=void\ autoupdateBalance(User)
+comment8.params=
+comment8.target=void\ run()
+comment9.params=user
+comment9.target=void\ updateDetails(User)
+numComments=13

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=realMoneyUser
+comment1.params=userName\ passWord\ balance
+comment1.target=realMoneyUser(java.lang.String,\ java.lang.String,\ double)
+comment2.params=userName\ passWord\ balance\ profit
+comment2.target=realMoneyUser(java.lang.String,\ java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=void\ Login()
+numComments=4

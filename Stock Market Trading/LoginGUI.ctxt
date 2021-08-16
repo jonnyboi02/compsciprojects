@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LoginGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=LoginGUI()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=username\ password\ users2
+comment5.target=int\ findUser(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment6.params=
+comment6.target=java.util.ArrayList\ createAccount()
+comment7.params=directory
+comment7.target=java.util.ArrayList\ readFile(java.lang.String)
+numComments=8

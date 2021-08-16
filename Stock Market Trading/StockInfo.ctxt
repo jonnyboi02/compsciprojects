@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StockInfo
+comment1.params=currentStock
+comment1.target=StockInfo(Stock)
+comment2.params=stock
+comment2.target=void\ autoupdateInfo(Stock)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ updateStockInfo()
+numComments=5

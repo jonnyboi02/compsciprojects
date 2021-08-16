@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Company
+comment1.params=name\ abbreviation\ sellPrice\ change
+comment1.target=Company(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=name\ abbreviation\ sellPrice\ owner
+comment2.target=Company(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getBasicInfo()
+comment4.params=
+comment4.target=java.lang.String\ getOwner()
+comment5.params=owner
+comment5.target=void\ setOwner(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ changeSellPrice()
+comment8.params=
+comment8.target=void\ algorithmPrice()
+numComments=9

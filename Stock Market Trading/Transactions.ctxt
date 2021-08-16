@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Transactions
+comment1.params=
+comment1.target=Transactions()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=balance\ profit\ name
+comment11.target=void\ updateUserBalanceFile(double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getStocks()
+comment3.params=
+comment3.target=java.util.ArrayList\ getSharesPurchased()
+comment4.params=
+comment4.target=java.util.ArrayList\ getStockpriceBought()
+comment5.params=index\ sharesToSell\ user
+comment5.target=void\ processTransaction(int,\ double,\ User)
+comment6.params=index
+comment6.target=java.lang.Double\ maxNumberOfShares(int)
+comment7.params=user\ sharesBought\ stock
+comment7.target=void\ addTransaction(User,\ double,\ Stock)
+comment8.params=user
+comment8.target=void\ boughtStocksFile(User)
+comment9.params=user\ shares
+comment9.target=void\ readInStocks(User,\ java.util.ArrayList)
+numComments=12
