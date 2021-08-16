@@ -11,7 +11,7 @@ The Stock Market Trading System that I created for the OOP module in which this 
 
 # Some Pointers
 - The program currently uses my own API key, you will have to obtain your own your own API key and I would suggest you purchase for more API calls if you desire for a more "realistic" simulation of the System. You can obtain your own API key by using the following link: https://twelvedata.com/
-- Currently the API calls are made every 30s, you can easily bypass this by entering your own API key and purchasing your more API calls.
+- Currently the API calls are made every 30s, you can easily bypass this by entering your own API key and purchasing more API calls.
 - If you so desire, you can add your own "users" to the system, just format the details similarly to how it is done in the accounts.txt file (be careful with the formatting for a real user and demo user account).
 
 
